@@ -1,0 +1,116 @@
+﻿Build started 17/05/2015 16:43:04.
+     1>Project "C:\Users\Anton Yeshchenko\Documents\course work, academic life\New Course Work\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(214): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(215): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(230): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(232): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(314): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(324): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(326): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(339): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(341): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(353): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(355): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(358): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(360): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(374): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(377): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(379): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(390): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(397): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(398): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(409): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(480): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(496): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(516): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(520): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(524): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(526): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(536): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(544): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(536) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(526) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(549): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(536) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(526) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(552): warning C4305: 'argument' : truncation from 'int' to 'const bool'
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(558): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(561): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(562): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(563): warning C4800: 'const int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(570): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(575): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(570) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(526) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(580): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(570) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(526) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(585): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(570) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(526) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(588): warning C4305: 'argument' : truncation from 'int' to 'const bool'
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(594): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(597): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(598): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(599): warning C4800: 'const int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(613): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(615): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(642): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(647): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(649): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(657): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(642) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(621) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(662): warning C4305: 'argument' : truncation from 'int' to 'const bool'
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(678): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(706): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(752): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(762): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(777): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(762) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(754) : definition of 'i' used
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(788): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(806): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(812): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(832): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(839): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(849): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(868): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(881): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(897): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(899): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(913): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(930): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(932): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(935): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(957): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(965): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(984): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(987): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(1001): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(3078): warning C4805: '==' : unsafe mix of type 'bool' and type 'const int' in operation
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(3089) : see reference to function template instantiation '__w64 int std::_Count_np<_Iter,_Ty>(_InIt,_InIt,const _Ty &)' being compiled
+                 with
+                 [
+                     _Iter=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>
+         ,            _Ty=int
+         ,            _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>
+                 ]
+                 c:\users\anton yeshchenko\documents\course work, academic life\new course work\project1\project1\headerofgeneration.h(193) : see reference to function template instantiation '__w64 int std::count<std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>,int>(_InIt,_InIt,const _Ty &)' being compiled
+                 with
+                 [
+                     _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>
+         ,            _Ty=int
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anton Yeshchenko\Documents\course work, academic life\New Course Work\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Anton Yeshchenko\Documents\course work, academic life\New Course Work\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anton Yeshchenko\Documents\course work, academic life\New Course Work\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\main.obj
+         Debug\sourceOfGeneration.obj
+         Project1.vcxproj -> C:\Users\Anton Yeshchenko\Documents\course work, academic life\New Course Work\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\Anton Yeshchenko\Documents\course work, academic life\New Course Work\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.56

@@ -1,0 +1,17 @@
+numberOfPointsForMutation 2
+numberOfchromosome 150
+numberOfPointsForHybrid 1
+ifWeMustPrintOutEveryTimeAllVector 0
+EpsilonForStoppingProcess 7
+percentageForMutation 25
+showProcessOfKillingTops 0
+percentageForTryingToKillSomeTops 1
+restrictionToAmount 0
+pauseBetweenAutomaticallyPlayingSteps0
+-1
+
+
+
+
+
+

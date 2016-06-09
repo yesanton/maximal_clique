@@ -1,0 +1,113 @@
+﻿Build started 09/06/2016 16:49:50.
+     1>Project "C:\Users\Anton Yeshchenko\Desktop\course work, academic life\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(199): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(200): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(215): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(217): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(332): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(333): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(348): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(350): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(441): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(467): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(468): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(509): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(511): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(580): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(651): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(667): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(687): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(691): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(695): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(697): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(707): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(715): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(707) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(697) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(720): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(707) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(697) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(723): warning C4305: 'argument' : truncation from 'int' to 'const bool'
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(729): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(732): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(733): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(734): warning C4800: 'const int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(741): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(746): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(741) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(697) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(751): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(741) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(697) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(756): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(741) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(697) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(759): warning C4305: 'argument' : truncation from 'int' to 'const bool'
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(765): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(768): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(769): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(770): warning C4800: 'const int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(784): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(786): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(813): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(818): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(820): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(828): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(813) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(792) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(833): warning C4305: 'argument' : truncation from 'int' to 'const bool'
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(849): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(877): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(923): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(933): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(948): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(933) : definition of 'i' ignored
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(925) : definition of 'i' used
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(959): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(977): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(983): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1003): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1010): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1020): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1039): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1052): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1068): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1070): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1084): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1102): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1104): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1107): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1129): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1137): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1156): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1159): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(1173): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility(3078): warning C4805: '==' : unsafe mix of type 'bool' and type 'const int' in operation
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility(3089) : see reference to function template instantiation '__w64 int std::_Count_np<_Iter,_Ty>(_InIt,_InIt,const _Ty &)' being compiled
+                 with
+                 [
+                     _Iter=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>
+         ,            _Ty=int
+         ,            _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>
+                 ]
+                 c:\users\anton yeshchenko\desktop\course work, academic life\project1\project1\headerOfGeneration.h(180) : see reference to function template instantiation '__w64 int std::count<std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>,int>(_InIt,_InIt,const _Ty &)' being compiled
+                 with
+                 [
+                     _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<char32_t>>>
+         ,            _Ty=int
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anton Yeshchenko\Desktop\course work, academic life\Project1\Release\Project1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Anton Yeshchenko\Desktop\course work, academic life\Project1\Release\Project1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anton Yeshchenko\Desktop\course work, academic life\Project1\Release\Project1.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\Source.obj
+         Release\sourceOfGeneration.obj
+         Generating code
+         Finished generating code
+         Project1.vcxproj -> C:\Users\Anton Yeshchenko\Desktop\course work, academic life\Project1\Release\Project1.exe
+     1>Done Building Project "C:\Users\Anton Yeshchenko\Desktop\course work, academic life\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.57

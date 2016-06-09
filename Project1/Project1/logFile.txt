@@ -1,0 +1,147 @@
+
+Start genetic with optimization algorithm
+Graph has been inputed with: 200 verticesStep #: 0 fitness: 621 number of Vertices: 8
+Chromosome (vertices included): (26 49 63 76 84 93 155 199 ) + number Vertices: 8
+
+Step #: 1 fitness: 683 number of Vertices: 10
+Chromosome (vertices included): (15 26 64 90 101 122 137 141 168 189 ) + number Vertices: 10
+
+Step #: 2 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 3 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 4 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 5 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 6 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 7 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 8 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+Step #: 9 fitness: 755 number of Vertices: 10
+Chromosome (vertices included): (9 26 32 37 75 83 103 107 108 167 ) + number Vertices: 10
+
+
+Time: 0 seconds 371 Millisecond fitness: 755
+
+Start genetic with optimization algorithm
+Graph has been inputed with: 200 verticesStep #: 0 fitness: 651 number of Vertices: 9
+Chromosome (vertices included): (26 27 28 32 37 76 108 189 193 ) + number Vertices: 9
+
+Step #: 1 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 2 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 3 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 4 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 5 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 6 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 7 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+Step #: 8 fitness: 723 number of Vertices: 10
+Chromosome (vertices included): (29 70 74 78 92 110 111 129 175 199 ) + number Vertices: 10
+
+
+Time: 0 seconds 428 Millisecond fitness: 723
+
+Start genetic with optimization algorithm
+Graph has been inputed with: 200 verticesStep #: 0 fitness: 631 number of Vertices: 10
+Step #: 0 fitness: 631 number of Vertices: 10
+Step #: 0 fitness: 631 number of Vertices: 10
+Step #: 0 fitness: 631 number of Vertices: 10
+Step #: 1 fitness: 688 number of Vertices: 9
+Step #: 1 fitness: 688 number of Vertices: 9
+Step #: 1 fitness: 688 number of Vertices: 9
+Step #: 1 fitness: 688 number of Vertices: 9
+Step #: 2 fitness: 699 number of Vertices: 9
+Step #: 2 fitness: 699 number of Vertices: 9
+Step #: 2 fitness: 699 number of Vertices: 9
+Step #: 2 fitness: 699 number of Vertices: 9
+Step #: 3 fitness: 699 number of Vertices: 9
+Step #: 3 fitness: 699 number of Vertices: 9
+Step #: 3 fitness: 699 number of Vertices: 9
+Step #: 3 fitness: 699 number of Vertices: 9
+Step #: 4 fitness: 705 number of Vertices: 10
+Step #: 4 fitness: 705 number of Vertices: 10
+Step #: 4 fitness: 705 number of Vertices: 10
+Step #: 4 fitness: 705 number of Vertices: 10
+Step #: 0 fitness: 705 number of Vertices: 10
+Step #: 0 fitness: 705 number of Vertices: 10
+Step #: 0 fitness: 723 number of Vertices: 10
+Step #: 0 fitness: 723 number of Vertices: 10
+Step #: 1 fitness: 723 number of Vertices: 10
+Step #: 1 fitness: 705 number of Vertices: 10
+Step #: 1 fitness: 705 number of Vertices: 10
+Step #: 1 fitness: 705 number of Vertices: 10
+Step #: 2 fitness: 744 number of Vertices: 10
+Step #: 2 fitness: 755 number of Vertices: 10
+Step #: 2 fitness: 744 number of Vertices: 10
+Step #: 2 fitness: 755 number of Vertices: 10
+Step #: 3 fitness: 744 number of Vertices: 10
+Step #: 3 fitness: 744 number of Vertices: 10
+Step #: 3 fitness: 755 number of Vertices: 10
+Step #: 3 fitness: 755 number of Vertices: 10
+Step #: 4 fitness: 723 number of Vertices: 10
+Step #: 4 fitness: 744 number of Vertices: 9
+Step #: 4 fitness: 707 number of Vertices: 9
+Step #: 4 fitness: 723 number of Vertices: 10
+Step #: 0 fitness: 726 number of Vertices: 9
+Step #: 0 fitness: 748 number of Vertices: 10
+Step #: 0 fitness: 748 number of Vertices: 10
+Step #: 0 fitness: 748 number of Vertices: 10
+Step #: 1 fitness: 729 number of Vertices: 10
+Step #: 1 fitness: 748 number of Vertices: 10
+Step #: 2 fitness: 729 number of Vertices: 10
+Step #: 1 fitness: 748 number of Vertices: 10
+Step #: 1 fitness: 748 number of Vertices: 10
+Step #: 2 fitness: 744 number of Vertices: 9
+Step #: 2 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 737 number of Vertices: 10
+Step #: 2 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 744 number of Vertices: 9
+Step #: 4 fitness: 737 number of Vertices: 10
+Step #: 4 fitness: 744 number of Vertices: 9
+Step #: 4 fitness: 744 number of Vertices: 9
+Step #: 4 fitness: 744 number of Vertices: 9
+Step #: 0 fitness: 744 number of Vertices: 10
+Step #: 0 fitness: 744 number of Vertices: 9
+Step #: 0 fitness: 744 number of Vertices: 9
+Step #: 1 fitness: 744 number of Vertices: 10
+Step #: 0 fitness: 744 number of Vertices: 9
+Step #: 2 fitness: 744 number of Vertices: 9
+Step #: 1 fitness: 744 number of Vertices: 9
+Step #: 1 fitness: 744 number of Vertices: 9
+Step #: 1 fitness: 744 number of Vertices: 9
+Step #: 2 fitness: 744 number of Vertices: 10
+Step #: 2 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 744 number of Vertices: 9
+Step #: 2 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 723 number of Vertices: 10
+Step #: 4 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 744 number of Vertices: 9
+Step #: 3 fitness: 744 number of Vertices: 10
+Step #: 4 fitness: 729 number of Vertices: 10
+
+Time: 3 seconds 3690 Millisecond fitness: 744

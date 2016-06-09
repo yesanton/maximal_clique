@@ -1,0 +1,61 @@
+﻿Build started 13.03.2013 21:38:26.
+     1>Project "D:\Курсова робота\GraphGeneration\TravellingSalesmanProblem(05.11.2012.23.20)\TravellingSalesmanProblem\TravellingSalesmanProblem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Source.cpp
+         Source.cpp
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(76): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(77): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(88): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(100): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(108): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(100) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(90) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(113): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(100) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(90) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(134): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(139): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(134) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(90) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(159): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(134) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(90) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(164): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(134) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(90) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(173): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(176): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(192): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(194): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(226): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(235): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(221) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(200) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(244): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(221) : definition of 'i' ignored
+                 d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(200) : definition of 'i' used
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(257): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(260): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(277): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\source.cpp(312): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         main.cpp
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\main.cpp(4): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\курсова робота\graphgeneration\travellingsalesmanproblem(05.11.2012.23.20)\travellingsalesmanproblem\main.cpp(10): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Курсова робота\GraphGeneration\TravellingSalesmanProblem(05.11.2012.23.20)\Debug\TravellingSalesmanProblem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Курсова робота\GraphGeneration\TravellingSalesmanProblem(05.11.2012.23.20)\Debug\TravellingSalesmanProblem.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Курсова робота\GraphGeneration\TravellingSalesmanProblem(05.11.2012.23.20)\Debug\TravellingSalesmanProblem.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Source.obj
+         TravellingSalesmanProblem.vcxproj -> D:\Курсова робота\GraphGeneration\TravellingSalesmanProblem(05.11.2012.23.20)\Debug\TravellingSalesmanProblem.exe
+     1>Done Building Project "D:\Курсова робота\GraphGeneration\TravellingSalesmanProblem(05.11.2012.23.20)\TravellingSalesmanProblem\TravellingSalesmanProblem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.24
